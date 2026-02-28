@@ -1,0 +1,24 @@
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+WRITE FUNC Complated
+---WRITE--- |Addr=20 | Data=20
+READ FUNC Completed
+---READ--- | Addr=aa | Data=bbbb
+READ FUNC Completed
+---READ--- | Addr=ab | Data=cccc
+READ FUNC Completed
+---READ--- | Addr=ac | Data=1111
+READ FUNC Completed
+---READ--- | Addr=ad | Data=2222
+READ FUNC Completed
+---READ--- | Addr=ae | Data=3333
+READ FUNC Completed
+---READ--- | Addr=af | Data=4444
